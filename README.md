@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a backend software developer with 2+ years of experience, building software products customized 
+I am a backend software developer, building software products customized 
 to clients needs. I have in depth knowledge of test-driven and agile software methodology with a clear
 understanding of functional paradigms. I am also asupporter of developers community growth and currently 
 I am part of the ElixirKenya & ElixirConfAfrica organizers team where I help in coordinating Elixir webinar 
