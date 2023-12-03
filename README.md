@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tracey Onim and I'm a software developer. My software journey started around 2012 when I was in university studying computer science.
+My name is Tracey Onim and I'm a software developer. My software journey started around 2016 when I was in university studying computer science.
 I started learning programming with Java for my 3rd and 4th year projects.
 
 2019 during my internship period, I was introduced to Elixir and started enjoying every bit of my programming journey. With skills and knowledge gained every day by programming with Elixir, I'm able to share them through writing technical blogs, you can find my blogs on the following platforms
