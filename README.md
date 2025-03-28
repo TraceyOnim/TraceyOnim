@@ -8,7 +8,7 @@ With a strong foundation in test-driven development, agile methodologies, and so
 
 👩🏽‍💻 Current Role: 
 
-Currently, I'm working on a system providing cryptocurrency payment solutions. I have taken part in designing and implementing payment flows following the CQRS pattern.
+Currently, I'm working on a system providing cryptocurrency payment solutions at [Xmoney](https://www.xmoney.com/). I have taken part in designing and implementing payment flows following the CQRS pattern.
 
 ✍🏽 Technical Writing: 
 
